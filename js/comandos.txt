@@ -1,0 +1,26 @@
+replace(comando que serve para trocar uma palavra em uma string)
+ex: variavel.replace("palavraquequerotrocar","palavraqueirasubstituir")
+
+toUpperCase()(comando que torna a string maiuscula)
+toLowerCase()(comando que torna a string minuscula)
+
+push(comado que serve para acrecentar elemetos em uma lista)
+ex: lista.pus("elemento")
+
+pop(comando que serve para retirar elementos de uma lisata)
+ex: lista.pop("elemento")
+
+length()(comando que serve para mostrar quantidade de elementos que tem na lista)
+
+reverse()(comando que serve para imprimir a lista ao contarrio)
+
+toString()(tranforma a lista em uma string)
+
+join(comando que serve para alterar o elemento que esta emtre os elementos de uma lista)
+ex: lista.join(" - ")(iria colocar um traco no lugar da virgula)
+
+prompt(comando que serve para abri uma caixa digitavel para ser realizado uma entrada)
+
+Date(tras a data)
+ex: variavel= new Date();/variavel.getMonth()+1(traz o mes certo)
+variavel.getMinutes(); variavel.getDay();
